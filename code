@@ -9,3 +9,6 @@
   mkdir -p data notebooks models src visuals
   touch requirements.txt README.md LICENSE
 
+4. Make all folders visible in repository as Git ignores empty files.
+  touch data/.gitkeep notebooks/.gitkeep models/.gitkeep src/.gitkeep visuals/.gitkeep
+
