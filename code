@@ -5,3 +5,7 @@
 2. 
   touch Forecasting.py
   code Forecasting.py
+3.
+  mkdir -p data notebooks models src visuals
+  touch requirements.txt README.md LICENSE
+
