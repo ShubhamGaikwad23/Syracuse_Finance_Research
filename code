@@ -1,0 +1,7 @@
+1. 
+  mkdir liquidity-forecasting-causal-inference
+  cd liquidity-forecasting-causal-inference
+
+2. 
+  touch Forecasting.py
+  code Forecasting.py
