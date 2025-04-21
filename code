@@ -12,3 +12,13 @@
 4. Make all folders visible in repository as Git ignores empty files.
   touch data/.gitkeep notebooks/.gitkeep models/.gitkeep src/.gitkeep visuals/.gitkeep
 
+5. cd ..
+   ls  //Make sure the folder liquidity-forecasting-causal-inference/ still exists.
+   cd liquidity-forecasting-causal-inference
+
+   git add .
+   git commit -m "Initial project structure"
+
+   git push origin main  //Meaning: 👉 “Hey Git, please download the latest changes from the main branch on GitHub and update my local copy with them.
+
+
