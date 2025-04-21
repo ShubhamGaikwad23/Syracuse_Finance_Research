@@ -1,3 +1,4 @@
+
 1. 
   mkdir liquidity-forecasting-causal-inference
   cd liquidity-forecasting-causal-inference
@@ -20,5 +21,13 @@
    git commit -m "Initial project structure"
 
    git push origin main  //Meaning: 👉 “Hey Git, please download the latest changes from the main branch on GitHub and update my local copy with them.
+
+6. Push to GitHub
+  git init
+  git remote add origin https://github.com/ShubhamGaikwad23/liquidity-forecasting-causal-inference.git
+
+  git add .
+  git commit -m "Initial project commit"
+  git push -u origin main
 
 
